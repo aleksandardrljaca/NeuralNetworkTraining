@@ -13,4 +13,4 @@ which affect the network architecture and vary the given parameters by at least 
 
 
 # NOTE
-# This solution has a flaw -> As accuracy is rising, precision is going down and I think that is due to imbalanced dataset. Oversampling or Undersampling should be done to fix this( I think so :) )
+This solution has a flaw -> As accuracy is rising, precision is going down and I think that is due to imbalanced dataset. Oversampling or Undersampling should be done to fix this( I think so :) )
