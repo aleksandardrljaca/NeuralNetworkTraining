@@ -1,5 +1,5 @@
 # NeuralNetworkTraining
-#TASK:
+#Project for Formal Methods In Software Engineering Course:
 # 1
 Train NN over Covtype dataset.Define arbitrary achitecture of neural network. Pay attention to number of IN&amp;OUT neurons in the first and the last layer of neural network.
 Use an adequate loss function. Train NN arbitrary number of epochs with arbitrary batch size. Find precision and recall over test dataset before and after training.
